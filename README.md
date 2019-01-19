@@ -24,3 +24,5 @@ Some Tools To Generate Fancy Or Useful Text
 6 lolcat: Make your text has rainbow colors
 
 Reference https://ownyourbits.com/2017/04/05/customize-your-motd-login-message-in-debian-and-ubuntu/
+
+The ubuntu_logo.sh is an interesting piece of code printing a ubuntu logo and some system information. It is created by LHammonds from the Ubuntu forums. I make a copy of it here just to back up.
